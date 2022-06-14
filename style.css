@@ -1,5 +1,13 @@
 /* add code here to make your image 300px square */
-
+img {width: auto;
+  height: 300;
+  size:square}
 /* add code here to change the color and font family of your name/title */
-
+body {background-color: lightgrey;
+  color: blue;} 
+h1 {background-color: black;
+  color: white;
+  font-family: Helvetica;}
 /* Bonus: change the color of your list elements */
+div {background-color: white;
+  color: orange;}
